@@ -43,13 +43,13 @@ export default function Hero() {
 
           <section className="small-boxes">
             <div className="small-box">
-              <img src="/assets/images/yellow-wall.jpg" width="117" height="147" alt="" />
+              <img src="assets/images/yellow-wall.jpg" width="117" height="147" alt="" />
             </div>
             <div className="small-box">
-              <img src="/assets/images/peach-wall.jpg" width="117" height="147" alt="" />
+              <img src="assets/images/peach-wall.jpg" width="117" height="147" alt="" />
             </div>
             <div className="small-box">
-              <img src="/assets/images/yellow-balloon.jpg" width="117" height="147" alt="" />
+              <img src="assets/images/yellow-balloon.jpg" width="117" height="147" alt="" />
             </div>
           </section>
           <br />
