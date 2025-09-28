@@ -11,7 +11,7 @@ export default function Hero() {
       <div>
         <img
           className="dog-image"
-          src="/assets/images/dog-on-a-leash-resting-on-the-sidewalk.jpg"
+          src="assets/images/dog-on-a-leash-resting-on-the-sidewalk.jpg"
           alt="Samurai King Resting"
         />
         <p className="text-over-dog">Photo of the day</p>
